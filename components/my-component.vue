@@ -14,6 +14,12 @@
 import { mapGetters } from 'vuex';
 
 export default {
+    data() {
+      return {
+        items: []
+      }
+    },
+
     async fetch() {
         const res = await import('~/fake/items.json');
         this.items = res.default;
