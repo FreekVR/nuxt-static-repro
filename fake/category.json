@@ -1,4 +1,12 @@
-{
-  "title": "My fake category",
-  "description": "My fake description"
-}
+[
+  {
+    "title": "My Bar category",
+    "description": "My Bar description",
+    "slug": "bar"
+  },
+  {
+    "title": "My Foo category",
+    "description": "My Foo description",
+    "slug": "foo"
+  }
+]

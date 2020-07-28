@@ -1,6 +1,6 @@
 <template>
     <section class="magazine">
-        <p>This doesn't do anything for this demo</p>
+        <p>No data on index</p>
     </section>
 </template>
 
